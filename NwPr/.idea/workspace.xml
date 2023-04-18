@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="353fb3ea-9fcf-4103-9bb9-d77366d528cd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ChatApp/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/ChatApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/src/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChatApp/src/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/NWlab1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab1/src/URLReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/NWlab2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/example.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/src/WebpageReader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/url.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab2/urlContent.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/NWlab3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NWlab3/src/URIDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/ServerSocket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/.idea/ServerSocket.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ServerSocket/out/production/ServerSocket/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nwProgramming/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MzE1g4J4Ei2jn1l0h7FHXwHEak" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Seemana/IdeaProjects/Unit4"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="353fb3ea-9fcf-4103-9bb9-d77366d528cd" name="Changes" comment="" />
+      <created>1678761801059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678761801059</updated>
+    </task>
+    <servers />
+  </component>
+</project>
