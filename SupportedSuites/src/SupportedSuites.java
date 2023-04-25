@@ -11,10 +11,17 @@ public class SupportedSuites {
             String[] suites = ss.getSupportedCipherSuites();
             ss.getEnabledCipherSuites();
             ss.addHandshakeCompletedListener(
-                    new myHandshake());
+                    new myHandshake() {
+                        @Override
+                        public void handshakeCompleted(HandshakeCompletedEvent handshakeCompletedEvent) {
+
+                        }
+                    });
             ss.startHandshake();
 
-            System.out.println("Connect to"+ss.getRemoteSocketAddress());
+            System.out.println("Connect to "+ss.getRemoteSocketAddress());
+            System.out.println("Connect to "+ss.getSupportedCipherSuites());
+            System.out.println("Connect to "+ss.getEnabledCipherSuites());
         }
         catch (Exception e){
             System.out.println("Error "+e);
@@ -24,7 +31,14 @@ public class SupportedSuites {
     private static abstract class myHandshake implements HandshakeCompletedListener {
         public void handShakeCompleted(HandShakeCompletedEvent e)
         {
+
             System.out.println("Session Info"+e.getSession());
+        }
+
+        private class HandShakeCompletedEvent {
+            public String getSession() {
+                return null;
+            }
         }
     }
 }

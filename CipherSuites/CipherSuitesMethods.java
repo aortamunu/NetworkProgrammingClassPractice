@@ -10,7 +10,7 @@ public class CipherSuitesMethods {
             Socket so = new Socket();
             SSLSocketFactory ssf = (SSLSocketFactory) SSLSocketFactory.getDefault();
             SSLSocket ss = (SSLSocket) ssf.createSocket();
-            ss.connect(new InetSocketAddress("www.youtube.com", 3300));
+            ss.connect(new InetSocketAddress("www.youtube.com", 443));
             System.out.println(ss.getEnabledCipherSuites());
             System.out.println(ss.getSupportedCipherSuites());
             System.out.println(ss.getRemoteSocketAddress());
